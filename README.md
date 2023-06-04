@@ -106,3 +106,8 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+By reading this I learned about about the various features of github: forks, commits, git, branches, pull requests, repositories, and cloning. 
+Forks make a copy of a respository allowing us to experiment and make changes to the code without changin the original repository. 
+Repositories is like a project folder. It holds all the files related to a specific project. 
+Pull requests notify others of the changes you made.
